@@ -80,7 +80,7 @@ price:17000
             })}
           </div>
          
-          </div>
+        </div>
             <div className="col-lg-4">
               <div className="row">
                <div className="col-lg-12">
