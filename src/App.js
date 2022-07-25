@@ -2,7 +2,7 @@
 import "./App.css";
 //import Button from "react-bootstrap/Button";
 //import "bootstrap/dist/css/bootstrap.min.css";
-import Card from "./Card";
+  import Card from "./Card"; 
 //import { Badge, ListGroup } from "react-bootstrap";
 import Cartitem from "./Cartitem";
 import { useState } from "react";
