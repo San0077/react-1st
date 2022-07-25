@@ -85,7 +85,7 @@ price:17000
               <div className="row">
                <div className="col-lg-12">
                 <h3>Cart</h3>
-               </div>
+                  </div>
                 <ol class="list-group list-group-numbered">
                   {
                     cartitem.map((item)=>{
