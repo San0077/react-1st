@@ -55,7 +55,7 @@ price:17000
     setTotal(total+product.price)
     // alert("hello")
   }
-  const handleRemoveCart=(id)=>{
+     const handleRemoveCart=(id)=>{
     const cartitemIndex=cartitem.findIndex((obj)=>obj.id===id)
     setTotal(total - cartitem[cartitemIndex].price)
     cartitem.splice(cartitemIndex,1)
